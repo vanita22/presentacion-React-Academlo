@@ -1,0 +1,16 @@
+.interest {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    height: 45vh;
+    padding: 20px;
+    line-height: 35px;
+    background-color: rgb(54, 216, 154);
+    color: white;
+}
+h2 {
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
